@@ -20,6 +20,8 @@ public class Base {
    public Base() throws IOException {
     FileInputStream fis = new FileInputStream(System.getProperty("user.dir") + "\\src\\main\\java\\com\\stc\\properties\\config.properties");
     prop.load(fis);
+}
+
 
     public static void initializeBrowser() {
         if (prop.getProperty("browser").contentEquals("chrome"))  //It will get the property from properties file
