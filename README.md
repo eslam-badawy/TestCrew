@@ -34,7 +34,8 @@
 ![Screenshot of Test Result](https://drive.google.com/uc?export=view&id=1FnAh9kV7HUKc3xyzrMKex8QAkdDl3z4x)
 
 ### This is a screen record for Jenkins pipeline run
-<iframe src="https://drive.google.com/file/d/17FGQYe03cjxDeByBa6xgiM_PCy_rEkNt/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/17FGQYe03cjxDeByBa6xgiM_PCy_rEkNt/preview
+
 
 ## Running Tests
 ### first method
