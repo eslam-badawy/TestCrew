@@ -33,6 +33,9 @@
 ### This is a screenshot from the test report: 
 ![Screenshot of Test Result](https://drive.google.com/uc?export=view&id=1FnAh9kV7HUKc3xyzrMKex8QAkdDl3z4x)
 
+### This is a screen record for Jenkins pipeline run
+<iframe width="560" height="315" src="https://drive.google.com/file/d/17FGQYe03cjxDeByBa6xgiM_PCy_rEkNt/preview" frameborder="0" allowfullscreen></iframe>
+
 ## Running Tests
 ### first method
 * Clone the repository
