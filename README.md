@@ -31,7 +31,7 @@
 •   WebElement class: Which contains the clickOnElement() and getElementText() which can be used frequently
 
 ### This is a screenshot from the test report: 
-![Screenshot of Test Result](https://drive.google.com/file/d/1FnAh9kV7HUKc3xyzrMKex8QAkdDl3z4x/view?usp=drive_link)
+![Screenshot of Test Result](https://drive.google.com/file/d/1FnAh9kV7HUKc3xyzrMKex8QAkdDl3z4x/view?usp=drive_link.png)
 
 ## Running Tests
 ### first method
